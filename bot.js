@@ -37,13 +37,3 @@ client.user.setGame(,)
 
 
 client.login(process.env.USER_TOKEN);
-client1.login(process.env.USER_TOKEN1);
-client2.login(process.env.USER_TOKEN2);
-client3.login(process.env.USER_TOKEN3);
-client4.login(process.env.USER_TOKEN4);
-client5.login(process.env.USER_TOKEN5);
-client6.login(process.env.USER_TOKEN6);
-client7.login(process.env.USER_TOKEN7);
-client8.login(process.env.USER_TOKEN8);
-client9.login(process.env.USER_TOKEN9);
-client10.login(process.env.USER_TOKEN10);
