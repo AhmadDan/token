@@ -11,4 +11,4 @@ client.on('ready', () => {
 });
 
 client.login('NTIzMTUyMjE3NTQxMTgxNDQw.DvVXeQ.qgULeGA2gpvL45TaC0d7oQJRHWQ');
-client.login('NTIzMTQ4OTQ1MjQ1OTk1MDM4.DvVWEA.MfqK0Ya9iI26__toXurTqYzEpUE');
+client.login('NTIzMTU1MjYzMjMwOTY3ODI1.DvVaZg.pEQOur0KnNeZw1glFO6LW7y03SM');
